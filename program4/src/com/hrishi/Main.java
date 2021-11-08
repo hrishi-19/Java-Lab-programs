@@ -31,7 +31,8 @@ class QuickSort {
                 interchange(i, j);
             }
         }
-        arr[low] = arr[j];5
+        arr[low] = arr[j];
+
                 
         arr[j] = pivot;
         return j;
